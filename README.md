@@ -25,3 +25,5 @@
 ### - Requirements And Files:
 
 - **Download Python [here](https://www.python.org/downloads/)**
+- **Download My keras.model [here](https://www.mediafire.com/file/pe2uo7agesokoxr/model.keras/file)**
+- **Extract dataset.zip (for the AI)**
